@@ -1,14 +1,11 @@
+---
+title: Cretias
+---
 # Description
 The nation of Cretias has dominion over the northern portion of Arania, and is the oldest continuously-existing nation on the continent. 
 
 The capital of Cretias is [[Barristow]]. 
 
-# Settlements
-```dataview
-TABLE WITHOUT ID file.link AS "Settlement", size AS "Size", demonym AS "Demonym"
-FROM "settlements/Cretias"
-SORT size DESC
-```
 # Government
 Officially, the government of Cretias is a military stewardship, with a governing Steward who has absolute power and direct control over the military, similar to a king. When the Steward dies, the highest-ranking generals of Cretias gather to designate a new Steward, who is typically one of their own. 
 

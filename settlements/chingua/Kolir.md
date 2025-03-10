@@ -5,13 +5,13 @@ Demonym: Koliri
 ---
 
 # Summary
-Kolir is a port city on the eastern coast of [[Ch'ingua]]. Kolir is one of the older cities of Ch'ingua, tracing its roots as far back as the early 2nd Cycle. 
+Kolir is a port city on the eastern coast of [[chingua]]. Kolir is one of the older cities of Ch'ingua, tracing its roots as far back as the early 2nd Cycle. 
 
 Kolir is controlled by [[House Kolir]], a Ch'inguan royal house that has held fiefdom over the city since its founding. House Kolir is generally well-respected and liked by the city's citizens.
 # Geography
 Kolir is situated on a high promontory above a natural harbor on Ch'ingua's east coast. The land surrounding Kolir is hilly and rough, which has constrained much of the city's development and forced its citizens to expand the city vertically. 
 
-Despite its unforgiving landscape, Kolir maintains a generally prosperous economy thanks to its natural harbor and strategic coastal location, enabling easy trade with other Ch'inguan settlements as well as its neighbor to the north, [[Cretias]]. 
+Despite its unforgiving landscape, Kolir maintains a generally prosperous economy thanks to its natural harbor and strategic coastal location, enabling easy trade with other Ch'inguan settlements as well as its neighbor to the north, [[cretias]]. 
 # Layout
 Kolir's dominating landmark is its seat of government, the Kolir Citadel. The Citadel is a massive stone tower partially carved out of the rocky promontory on which the city sits. It is believed to be one of the oldest structures in Ch'ingua still standing.
 
@@ -48,5 +48,5 @@ Although generally a prosperous and well-regarded city (similar to [[Carrin]]), 
 
 As befits a city of its stature, Kolir has also been subject to several repeated attempts at annexation and occupation, typically from other Ch'inguan noble houses. The most recent attempt occurred during the [[1113_succession_crisis|Succession Crisis of 1113 4C]] when [[House Aran]] attempted to seize the city in an early bid for power following the death of [[King Crallus III]]. Aided by House Mynham, House Kolir was able to repel the armies of House Aran and withstand a minor siege. 
 # Recent History
-At present, the city is occupied by [[House Cole]], assisted by auxiliary forces of the Cretian Military.
+At present, the city is occupied by [[house_cole]], assisted by auxiliary forces of the Cretian Military.
 

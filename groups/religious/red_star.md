@@ -1,3 +1,7 @@
+---
+title: Red Star
+---
+
 The Red Star is a cult to the god [[Barro]], and although their exact headquarters is not known for certain, it is widely believed to be in [[Redmark]]. 
 
 Members of the Red Star are devoted to routine human sacrifice and bloodshed in order to appease Barro, and apostles of the Red Star believe that they are the ones chiefly responsible for keeping Barro's wrath at bay. Barro does not have any preference for who is sacrificed to him, as long as they are sacrificed in such a way that they have an opportunity to fight back; in fact, Barro prefers if the prospective sacrifice takes a bit of their captors' blood with them. 
