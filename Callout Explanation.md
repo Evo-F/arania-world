@@ -1,3 +1,6 @@
+---
+draft: true
+---
 > [!abstract] Meta Information
 > This page contains meta information that pertains to topics outside the game world. 
 
