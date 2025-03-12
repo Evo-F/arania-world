@@ -4,7 +4,7 @@ Size: 04 - Regional Capital
 Demonym: Fralish
 ---
 # Summary
-Fralia is a city in [[chingua|chingua]] located south of the town of Redmark. It is currently held by House Cole.
+Fralia is a city in [[chingua|Ch'ingua]] located south of the town of Redmark. It is currently held by House Cole.
 
 # Geography
 

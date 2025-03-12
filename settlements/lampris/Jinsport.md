@@ -3,7 +3,7 @@ Nation: Lampris
 Size: 03 - City
 Demonym: Jinn
 ---
-Jinsport is a port city located on the island of Hailoch in [[lampris]]. It is located at the southern tip of the island, at the southern base of Mount Dray. 
+Jinsport is a port city located on the island of Hailoch in [[lampris|Lampris]]. It is located at the southern tip of the island, at the southern base of Mount Dray. 
 
 The city functions primarily as a trading post and waystation, allowing ships on long journeys around the southeastern coast of Arania to resupply their crews and anchor in a calm and well-protected harbor. 
 

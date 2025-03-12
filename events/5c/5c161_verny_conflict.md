@@ -1,6 +1,10 @@
-**The Verny Conflict** is the name generally given to a 12-year prolonged conflict between [[cretias|cretias]] and [[chingua|chingua]] occurring from 161 5C to 173 5C. The conflict was sparked by a minor territorial dispute which rapidly expanded into a full-scale war, displacing thousands and resulting in the total destruction of the city of [[Verny]]. 
+---
+title: The Verny Conflict
+---
 
-The war ended with the signing of the Barristow Accords, a comprehensive ceasefire and peace agreement brokered in part by [[lampris|lampris]]. Although the war has ended and the two belligerent nations are largely at peace, trade between the two nations has not recovered to pre-war levels. It is believed this is primarily due to a deep distrust that exists between the two nations for different reasons - Cretias believes that Ch'ingua is an unpredictable rogue state that may attempt to invade again, while Ch'ingua fears Cretias as an overzealous and imperialistic power that could quite feasibly overpower them and annex some or all of their territory essentially at will. 
+**The Verny Conflict** is the name generally given to a 12-year prolonged conflict between [[cretias|Cretias]] and [[chingua|Ch'ingua]] occurring from 161 5C to 173 5C. The conflict was sparked by a minor territorial dispute which rapidly expanded into a full-scale war, displacing thousands and resulting in the total destruction of the city of [[Verny]]. 
+
+The war ended with the signing of the Barristow Accords, a comprehensive ceasefire and peace agreement brokered in part by [[lampris|Lampris]]. Although the war has ended and the two belligerent nations are largely at peace, trade between the two nations has not recovered to pre-war levels. It is believed this is primarily due to a deep distrust that exists between the two nations for different reasons - Cretias believes that Ch'ingua is an unpredictable rogue state that may attempt to invade again, while Ch'ingua fears Cretias as an overzealous and imperialistic power that could quite feasibly overpower them and annex some or all of their territory essentially at will. 
 
 # Beginnings
 The first rumblings of conflict between the two nations started in 158 5C, a full three years before the "official" start of the war. In this year, elections were held in the Cretian city of Verny, located a short distance from the southern border with Ch'ingua. The results of the elections gave significant power to a fringe political faction in Verny who believed that the city and its surrounds were culturally Ch'inguan and thus should secede from Cretias. 
@@ -15,7 +19,7 @@ Throughout all of this, the King of Ch'ingua began to publicly address the situa
 On January 10th, 161 5C, Ch'inguan forces crossed the border at the town of Redmark and began to march on Verny.
 
 # The Destruction of Verny
-The war between Ch'ingua and Cretias raged for a period of 12 years, with the central battleground being the city of Verny itself. Over the course of the war, the city officially changed hands 41 recorded times, not counting its return to Cretian sovereignty with the signing of the Barristow Accords. 
+The war between Ch'ingua and Cretias raged for a period of 12 years, with the central battleground being the city itself. Over the course of the war, the city officially changed hands 41 recorded times, not counting its return to Cretian sovereignty with the signing of the Barristow Accords. 
 
 Each time the city was reoccupied by one belligerent army or another, the citizens were subjected to a brutal crackdown and reinstitution of martial law. Over time, the city became a shell of its former self, with once-prosperous markets and town squares going abandoned almost overnight for fear of soldiers patrolling the streets. At its height, Verny was a city of 40,000 people - within the first months of the war, the city's population plummeted as thousands fled elsewhere. As the war raged on, thousands more died due to famine and disease, which ravaged the city owing to the chaos of the war.
 
@@ -30,6 +34,6 @@ With the destruction of Verny, the conflict began to lose momentum, as the prima
 The war ended with the signing and ratification of the Barristow Accords, signed at the Steward's Hall in [[Barristow]] by both the Steward of Cretias and the King of Ch'ingua. Members of the Council of Lampris helped to broker the agreement and were in attendance at its signing. The Barristow Accords were extensive, but its major points are detailed below:
 - Verny, and its surrounding towns, would be returned to Cretian sovereignty (by the end of the war, the region was under the control of Ch'inguan forces). 
 - Both Cretias and Ch'ingua agreed to withdraw back to their own lands and entered a voluntary peace accord for a period of 30 years, to end amicably in the year 203 5C. 
-- The town of Redmark, which had gained a reputation for lawlessness as a neutral border town, would be handed over fully to Ch'ingua.
-- The Ch'inguan government banned the import of Marisi Rum into its lands. 
-- The Verdant Isle would be turned over to Cretian sovereignty for the construction of New Vern as a subsidized home for those displaced from Verny.
+- The town of [[Redmark]], which had gained a reputation for lawlessness as a neutral border town, would be handed over fully to Ch'ingua.
+- The Ch'inguan government banned the import of [[Maris#Marisi Rum|Marisi Rum]] into its lands. 
+- The Verdant Isle would be turned over to Cretian sovereignty for the construction of [[New Vern]] as a subsidized home for those displaced from Verny.

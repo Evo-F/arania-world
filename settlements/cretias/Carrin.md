@@ -4,7 +4,7 @@ Nation: Cretias
 Size: 04 - Regional Capital
 ---
 # Summary
-Carrin is a city on the western coast of Arania, known for its consistent and semi-tropical climate and natural harbor. It is also the home of [[The Grand Library]] which is considered the preeminent house of wisdom and scholarship in all of Arania. 
+Carrin is a city on the western coast of Arania, known for its consistent and semi-tropical climate and natural harbor. It is also the home of The Grand Library which is considered the preeminent house of wisdom and scholarship in all of Arania. 
 
 Carrin's economy is mainly driven by trade and travel, as it is a major hub for sea routes ferrying both passengers and cargo. Because of its consistent flow of people in many directions, Carrin has become an extremely lucrative location for bars, taverns, inns, and various other ventures that cater primarily to travelers. However, Carrin's largely transient population has made it hard for the city to retain much of a stable "traditional" economy - in circumstances where travel is impacted, Carrin suffers more than most other cities, and takes longer to recover. 
 

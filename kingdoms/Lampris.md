@@ -1,4 +1,4 @@
 ---
 title: Republic of Lampris
 ---
-Page under construction.
+Nothing here yet.

@@ -2,7 +2,7 @@
 title: The Librarians' Guild
 ---
 # Summary
-The Librarians' Guild is a group of scholars who are also trained in advanced melee combat. The members of this guild are sworn to protect [[The Grand Library]] of [[Carrin]] with their lives, and once advancing beyond the initiate stage, are bound to the library and forbidden from leaving. 
+The Librarians' Guild is a group of scholars who are also trained in advanced melee combat. The members of this guild are sworn to protect The Grand Library of [[Carrin]] with their lives, and once advancing beyond the initiate stage, are bound to the library and forbidden from leaving. 
 
 In addition to protecting the library, the guild members are also the primary scholars and advisors at the library itself, and are committed to serving those who come seeking knowledge in good faith. If it becomes clear that someone is wishing to use the library for evil, the guildsmen are empowered to confront them and escort them from the library - by force if necessary.
 
@@ -60,6 +60,6 @@ As an alternative to becoming a full Guildsman, an Acolyte may instead declare a
 Itinerant Scholars are still expected to protect The Grand Library using their skills in combat, and can be summoned back to the library in the event of attack. Otherwise, they serve at the pleasure of their assigned house or town, though they can be recalled by the Guildmaster. 
 
 # Trivia
-- The Librarians' Guild has only ever been mobilized to protect The Grand Library four times in its history, one of which was during the [[Nightfall]]. 
+- The Librarians' Guild has only ever been mobilized to protect The Grand Library four times in its history, one of which was during the [[nightfall|Nightfall]]. 
 - When the library was sacked during the Nightfall, all members of the guild at that time were executed - for the duration of the Nightfall, the guild was effectively extinct. 
 - The Librarians' Guild does not give any guest of the library any special treatment; in fact, they are expressly forbidden from demonstrating any positive or negative favor towards an individual or a group. In this way, they are bound to always be impartial scholarly guides. 
