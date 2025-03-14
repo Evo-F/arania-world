@@ -1,3 +1,6 @@
+---
+title: House Cole
+---
 # Summary
 House Cole is a Ch'inguan Major House, holding the city of [[Fralia]] as their seat. The current leader of House Cole is Lord Albus Cole, a man who has been variously described as "in league with dark powers beyond comprehension" and "insane."
 
