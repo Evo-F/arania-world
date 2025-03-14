@@ -4,11 +4,13 @@ title: Ch'ingua
 # Description
 The nation of Ch'ingua holds dominion over the southwestern portion of Arania. Ch'ingua is the oldest of the three major kingdoms of Arania, tracing its origins back to the 2nd Cycle. 
 
+The capital of Ch'ingua is [[Stonehall]]. 
+
 # Government
 ## Monarchy
 Ch'ingua is a traditional monarchist state, ruled by a king or queen with absolute power. The role of king or queen is a hereditary office, whereby the eldest son of the ruling monarch inherits the throne upon the monarch's death. In cases where the ruling monarch has no sons, the eldest daughter inherits the throne. 
 
-The Ch'inguan monarch's house of origin is referred to as the Ch'inguan Royal House - currently, this is [[house_margrave|House Margrave]]. The Ch'inguan Royal House holds direct sway over the Marches of Stonehall, as well as the city of [[Stonehall]] itself as the capital of Ch'ingua.
+The Ch'inguan monarch's house of origin is referred to as the Ch'inguan Royal House - currently, this is [[house_margrave|House Margrave]]. The Ch'inguan Royal House holds direct sway over the Marches of Stonehall, as well as the city of Stonehall itself.
 ## Noble Houses
 In addition to the royal family, Ch'ingua's government is largely controlled and managed by several noble houses, each one overseen by a Lord or Lady who holds direct control over a portion of the kingdom in the monarch's stead. Each noble house typically possesses their own armies and manages their own regional economy, though each is sworn to the Royal House as vassals. 
 
@@ -17,11 +19,11 @@ The Ch'inguan noble houses are divided between **major houses** and **minor hous
 There are **five** major houses in Ch'ingua, each one holding sway over a major city and its surroundings. Currently, these are:
 - [[House Dire]], holding the city of [[Tys]].
 - [[House Kolir]], holding the city of [[Kolir]].
-- [[House Aran]], holding the city of [[Dawngate]].
+- [[house_aran|House Aran]], holding the city of [[Dawngate]].
 - [[house_cole|House Cole]], holding the city of [[Fralia]].
 - [[House Nistro]], holding the city of [[Katadin]].
 
-As they have each sworn direct fealty to the Ch'inguan Royal House, the five major houses are rarely in direct opposition to one another. However, historically there has been very little love amongst the major houses, as each seeks to enrich themselves even at the expense of others. 
+As they have each sworn direct fealty to the Ch'inguan Royal House, the five major houses are rarely in direct opposition to one another. However, historically there has been very little love amongst the Major Houses, as each seeks to enrich themselves even at the expense of others. 
 
 Major Houses are always elevated from an existing Minor House at the behest of the Royal House, typically to fill a vacancy. Most recently, this occurred with House Dire - following the [[4c1113_succession_crisis|Succession Crisis of 1113 4C]] and the ascent of House Margrave to the throne of Ch'ingua, it was decreed that House Dire would take their place as the Major House of Tys. Previously, House Dire was a lesser-known house in the town of [[Luster]], but in recognition of their aid during the Succession Crisis, they were elevated to the status of Major House. 
 ### Minor Houses
@@ -31,8 +33,8 @@ The Royal House may recognize any family as a minor house at any time for any re
 
 The most relevant Minor Houses are:
 - House Mynham, a longstanding vassal of House Kolir. 
-- House Redd
-- House Ardent
+- House Redd, one of the oldest noble houses in Ch'ingua.
+- House Ardent, a distant branch of [[house_aran|House Aran]] granted control of Luster following House Dire's ascension.
 - House Seabury
 
 ### Extinct Houses
