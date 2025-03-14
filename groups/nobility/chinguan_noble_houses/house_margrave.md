@@ -1,3 +1,6 @@
+---
+title: House Margrave
+---
 # Summary
 House Margrave is the current Ch'inguan Royal House, following their ascent during the [[4c1113_succession_crisis|Succession Crisis of 1113 4C]]. The leader of House Margrave is King Edric II, also addressed as Lord Edric Margrave II. 
 # Origins
