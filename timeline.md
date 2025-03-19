@@ -5,12 +5,21 @@ This page represents a relatively exhaustive timeline of the major events of Ara
 
 This page is maintained by [[timekeepers|The Timekeepers]].
 # 1st Cycle (870 Years)
-- The Timekeepers have not sanctioned any events to be recorded here at this time.
+- 498
+	- The city of [[Jinsport]] is established by a party led by [[jin|Jin of the East]]. 
+- 511
+	- [[jins_confederacy|Jin's Confederacy]] is established with [[Jinsport]] as its capital. 
+- 764
+	- [[the_academy|The Academy]] is established at the southern base of Mount Dray, just outside the city of [[Jinsport]]. 
 
 # 2nd Cycle (1027 Years)
 - The Timekeepers have not sanctioned any events to be recorded here at this time.
 
 # 3rd Cycle (833 Years)
+- 405
+	- The [[lampris|Republic of Lampris]] is established, with the Free City of [[Mend]] declared as its capital. 
+- 427
+	- Following a period of consistent economic decline, Jin's Confederacy is dissolved and voluntarily merges with the [[lampris|Republic of Lampris]]. 
 - 554
 	- The city of [[Carrin]] enters a period of significant growth and expansion. 
 
@@ -26,7 +35,7 @@ This page is maintained by [[timekeepers|The Timekeepers]].
 - 930
 	- The royal court in [[Stonehall]] declares the death of King Yarbus and the ascension of his son, Lysander, to the throne of Ch'ingua. He is crowned King Lysander II. 
 - 989
-	- [[Ariana I]] is crowned the first queen of Ch'ingua since the 3rd Cycle. She rules for 64 years.
+	- [[Ariana I]] is crowned the first queen of Ch'ingua since the 2nd Cycle. She rules for 64 years.
 - 1113
 	- King Crallus III of Ch'ingua dies after just three months on the throne, creating a power vacuum due to his lack of any heirs (even illegitimate ones). Following a period of brief civil conflict, House Margrave declares themselves the rightful rulers of Ch'ingua and crown Michael I as king. 
 		- *See [[4c1113_succession_crisis|Succession Crisis of 1113 4C]]*. 
