@@ -25,8 +25,8 @@ The Eastern Union of Cretias was a democratic nation governing the northeastern 
 The Cretian Protectorate was the successor state to the Eastern Union of Cretias, and existed for a period of approximately 9 years. Upon the successful invasion and annexation of the Western Republic of Cretias, the Cretian Protectorate dissolved and became the modern state of Cretias. 
 ## Western Republic of Cretias
 The Western Republic of Cretias was a republic similar to the modern nation of Lampris, albeit with a comparatively stronger central government. The Western Republic of Cretias (sometimes called "West Cretias") governed the northwestern portion of Arania, and was considered a prosperous and progressive nation. Their lack of military expenditure made them almost completely defenseless when they were invaded by the Cretian Protectorate, and the Western Republic fell within weeks.
-## Jin's Confederacy
-Jin's Confederacy was a state established in the late 1st Cycle, lasting in some form through the 3rd Cycle when it voluntarily joined the Republic of Lampris. Jin's Confederacy was the first state established on the island of Hailoch, and is named after the state's first leader, Jin of the East. She also established the city of [[Jinsport]], which served as the capital of Jin's Confederacy and still exists. 
+## [[jins_confederacy|Jin's Confederacy]]
+Jin's Confederacy was a state established in the 1st Cycle, lasting in some form through the 3rd Cycle when it voluntarily dissolved and joined the Republic of Lampris. Jin's Confederacy was the first state established on the island of Hailoch, and is named after the state's first leader, Jin of the East. The capital of the Confederacy was [[Jinsport]]. 
 ## Greater Kolir / Peninsular Union
 Greater Kolir, also called the Peninsular Union, was a nation-state consisting of the cities of [[Kolir]], [[Tys]], and [[Dawngate]], and their respective holdings. The state existed for most of the 1st Cycle before dissolving in the early 2nd Cycle with the foundation of Ch'ingua. 
 
