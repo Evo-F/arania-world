@@ -9,11 +9,10 @@ This page is maintained by [[timekeepers|The Timekeepers]].
 	- The city of [[Jinsport]] is established by a party led by [[jin|Jin of the East]]. 
 - 511
 	- [[jins_confederacy|Jin's Confederacy]] is established with [[Jinsport]] as its capital. 
-- 764
-	- [[the_academy|The Academy]] is established at the southern base of Mount Dray, just outside the city of [[Jinsport]]. 
 
 # 2nd Cycle (1027 Years)
-- The Timekeepers have not sanctioned any events to be recorded here at this time.
+- 664
+	- [[the_academy|The Academy]] is established at the southern base of Mount Dray, just outside the city of [[Jinsport]]. 
 
 # 3rd Cycle (833 Years)
 - 405
