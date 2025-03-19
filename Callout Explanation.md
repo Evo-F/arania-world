@@ -8,7 +8,7 @@ Throughout this compendium, you will likely see several **Callouts** on various 
 
 Callouts in use within this wiki are:
 
-> [!example] DM's Note
+> [!example] Evo's Note
 > These are notes or asides from Evo clarifying or elaborating on a particular topic. These callouts will typically be interspersed within a particular page. 
 
 > [!abstract] Meta Information
