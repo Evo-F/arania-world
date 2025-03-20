@@ -7,7 +7,8 @@ Currently, there are two campaigns running in Arania:
 - [The Cartographers](https://arania-01.evofearnley.com), set in the 5th Cycle.
 - [Arania #2](https://arania-02.evofearnley.com), set in the 3rd Cycle.
 
-For the purposes of articles in this wiki that refer to the present day, it is currently year 206 of the 5th Cycle. 
+> [!info] In-Universe Date Notice
+> In instances where reference is made to the present day, it is presently the year 206 of the 5th Cycle (abbreviated 206 5C). If you are participating in a campaign that takes place in the past relative to this date, take into account any timestamps or date ranges you see - certain information may or may not be relevant. 
 
 # Core Pages
 If you're wondering where to start, any of these pages will give you a good jumping-off point. 
